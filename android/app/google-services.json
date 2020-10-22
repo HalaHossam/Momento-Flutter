@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "594838072263",
+    "firebase_url": "https://flash-chat-c24bd.firebaseio.com",
+    "project_id": "flash-chat-c24bd",
+    "storage_bucket": "flash-chat-c24bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594838072263:android:9863324f50d7bf953c47e2",
+        "android_client_info": {
+          "package_name": "co.HalaHossam.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594838072263-b9vqhgcomfk0ktphngh77mg6jqblfsun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-7wfJ3BO0fxmbKU9XC7g-ynNa9H7PHto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594838072263-b9vqhgcomfk0ktphngh77mg6jqblfsun.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
